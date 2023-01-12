@@ -2,4 +2,4 @@
 
 👋 I am a developer. Foucus on Java, BigData, and Vue Full Stack
 
-![Zhouchuanwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhouchuanwen&show_icons=true&theme=radical)
+![Zhouchuanwen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zhouchuanwen&show_icons=true&theme=radical)
